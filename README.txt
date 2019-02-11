@@ -18,9 +18,9 @@ https://docs.google.com/spreadsheets/d/15WZhfrUXd4xYVRBqwS8NkSmnuL9e3wVeenjXUMdA
 	For titanic title siblings parents were deleted
 	the python script descretized age and ticket price
 
-2. Open both files in Weka's explore section, and apply the filter for randomize, and save them as arff files called randomTit.arff and adult raandomized.arff and csv files
+2. Open both files in Weka's explore section, and apply the filter for randomize, and save them as arff files called randomTit.arff and adult randomized.arff and csv files
 
-3. using another python script we provide we divded the csv file into 10% 20% 30%... 80% and saved them each, as well as the last 20% as our test set.
+3. using another python script we provide called separate.py we divded the randomized csv file into 10% 20% 30%... 80% and saved them each, as well as the last 20% as our test set.
 
 4. Convert each file into arff file by importing them into weka and saving them as arff files
 
